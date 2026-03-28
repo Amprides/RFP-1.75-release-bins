@@ -1,0 +1,13 @@
+{
+  "project_name": "rfp_display_1_75",
+  "version": "1.0.6",
+  "channel": "stable",
+  "target_chip": "esp32s3",
+  "secure_version": 1,
+  "asset_name": "rfp_display_1_75_ota_signed_1.0.6.bin",
+  "asset_url": "https://raw.githubusercontent.com/Amprides/RFP-1.75-release-bins/main/bins/rfp_display_1_75_ota_signed_1.0.6.bin",
+  "sha256": "9102FF60EB12318F9A71F4F9A3014B4BE300A50B30EBA7A3A869811394097ACA",
+  "size_bytes": 3215360,
+  "published_at": "2026-03-27T20:57:48-04:00",
+  "release_notes": "Signed OTA firmware for RFP Display 1.75 version 1.0.6."
+}
