@@ -1,14 +1,14 @@
 {
   "project_name": "rfp_display_1_75",
   "display_name": "RFP 200",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "channel": "stable",
   "target_chip": "esp32s3",
   "secure_version": 1,
-  "asset_name": "rfp_200_ota_signed_1.0.8.bin",
-  "asset_url": "https://raw.githubusercontent.com/Amprides/RFP-1.75-release-bins/main/bins/rfp_200_ota_signed_1.0.8.bin",
-  "sha256": "1FDBD30A220BC5F59E252579C8735FD341E04B63480492D49F2C451FFD24DEDB",
+  "asset_name": "rfp_200_ota_signed_1.0.9.bin",
+  "asset_url": "https://raw.githubusercontent.com/Amprides/RFP-1.75-release-bins/main/bins/rfp_200_ota_signed_1.0.9.bin",
+  "sha256": "804C140D38BDA9450FEBE77AC5ECA7DE5817AB49812DBD0AD2FF66F1934A9A14",
   "size_bytes": 3215360,
-  "published_at": "2026-04-01T21:29:10-04:00",
-  "release_notes": "Signed OTA firmware for RFP 200 version 1.0.8. Internal OTA project identifier remains rfp_display_1_75 for compatibility."
+  "published_at": "2026-04-01T21:34:49-04:00",
+  "release_notes": "Signed OTA firmware for RFP 200 version 1.0.9. Vehicle Info now shows the display firmware build. Internal OTA project identifier remains rfp_display_1_75 for compatibility."
 }
