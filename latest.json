@@ -1,13 +1,14 @@
 {
   "project_name": "rfp_display_1_75",
-  "version": "1.0.7",
+  "display_name": "RFP 200",
+  "version": "1.0.8",
   "channel": "stable",
   "target_chip": "esp32s3",
   "secure_version": 1,
-  "asset_name": "rfp_display_1_75_ota_signed_1.0.7.bin",
-  "asset_url": "https://raw.githubusercontent.com/Amprides/RFP-1.75-release-bins/main/bins/rfp_display_1_75_ota_signed_1.0.7.bin",
-  "sha256": "B0F5274ED5BDB393A20C6EF46D4E3A38FB8B150387435F5903A22B62A9FCD79C",
+  "asset_name": "rfp_200_ota_signed_1.0.8.bin",
+  "asset_url": "https://raw.githubusercontent.com/Amprides/RFP-1.75-release-bins/main/bins/rfp_200_ota_signed_1.0.8.bin",
+  "sha256": "1FDBD30A220BC5F59E252579C8735FD341E04B63480492D49F2C451FFD24DEDB",
   "size_bytes": 3215360,
-  "published_at": "2026-04-01T21:05:51-04:00",
-  "release_notes": "Signed OTA firmware for RFP Display 1.75 version 1.0.7."
+  "published_at": "2026-04-01T21:29:10-04:00",
+  "release_notes": "Signed OTA firmware for RFP 200 version 1.0.8. Internal OTA project identifier remains rfp_display_1_75 for compatibility."
 }
